@@ -1,0 +1,4 @@
+2
+A B A B C
+12345 A A C B C
+45128 A B A B C
